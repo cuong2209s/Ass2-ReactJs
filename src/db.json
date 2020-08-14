@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Longsleeve Oversized T-shirt",
+      "price": "40701",
+      "price_sale": "40600",
+      "content": "Size M dưới 50kg  Size L dưới 65kg  Size XL dưới 80kg  ( Để được tư vấn size phù hợp nhất, vui lòng cung cấp chiều cao, cân nặng. Shop tư vấn size phù hợp nhất cho bạn)",
+      "image": "https://product.hstatic.net/1000260780/product/116588279_2731906200421150_3043741363051001356_o_f8283bcb7a374a658fd6d1fdc3232ac6_master.jpg",
+      "category_id": "2"
+    },
+    {
+      "name": "Sweater Split.",
+      "id": 2,
+      "image": "https://product.hstatic.net/1000260780/product/110156961_2731906247087812_1048316912676513764_o_7424d96db59946acacda62714fcb5a7d_master.jpg",
+      "price": "5445",
+      "price_sale": "40700",
+      "content": "Freesize. Fit tối đa 1m80.  Chất liệu : Vải nỉ bông kết hợp kĩ thuật in kéo lụa không bong tróc. ",
+      "category_id": 2
+    },
+    {
+      "name": "Áo hoa cúc MVR - LIKA22042004",
+      "price": "100000",
+      "image": "https://product.hstatic.net/1000260780/product/106417485_2712846265660477_6879449403979025774_o_14a1cf7bab8640ddaa7b53124c99aeec_master.jpg",
+      "price_sale": "40700",
+      "content": "Chất liệu: Cotton 100% vải mềm mát, không nhão, hình in sắc nét, bền màu và không bông tróc. Hướng dẫn giặt ủi: Lộn trái áo khi giặt, giặt ở chế độ giặt nhẹ đối với giặt máy, không giặt với các loại nước tẩy hoặc xà phòng tẩy mạnh. tránh phơi dưới ánh nắng trực tiếp, lộn trái áo khi ủi, không ủi trực tiếp lên bề mặt hình in và ủi ở chế độ nhẹ.",
+      "id": 3,
+      "category_id": 3
+    },
+    {
+      "name": "Đồng hồ Nữ",
+      "image": "https://product.hstatic.net/1000260780/product/110156961_2731906247087812_1048316912676513764_o_7424d96db59946acacda62714fcb5a7d_master.jpg",
+      "price": "1000",
+      "price_sale": "900",
+      "content": "Đồng hồ Nữ đẹp giá rẻ",
+      "category_id": "2",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "id": 2,
+      "name": "Áo tay dài",
+      "short_desc": "Đây là danh mục của các loại áo tay dài",
+      "count_cate": "10"
+    },
+    {
+      "name": "Áo tay ngắn",
+      "id": 3,
+      "short_desc": "Đây là danh mục của áo tay ngắn",
+      "count_cate": 10
+    },
+    {
+      "name": "Ví",
+      "id": 4,
+      "short_desc": "Đây là danh mục của ví",
+      "count_cate": 10
+    },
+    {
+      "name": "Thắt lưng",
+      "id": 5,
+      "short_desc": "Đây là danh mục của thắt lưng",
+      "count_cate": 10
+    }
+  ],
+  "post": [
+    {
+      "name": "Streetwear là gì?",
+      "image": "https://saigonsneaker.com/wp-content/uploads/2019/12/streetwear-la-gi-1.jpg",
+      "content": "Là một trong những cụm từ khá phổ biến với các tín đồ thời trang . Theo từ điển tiếng anh có thể phân tích các ý nghĩa cụ thể như sau: “street” là đường phố, “wear” là mặc. Hiểu một cách nôm na, đây là phong cách ăn mặc đường phố mang xu hướng bụi bặm, ngầu và chất. Những món đồ và phụ kiện thường được kết hợp với nhau, tạo nên nét đặc trưng là nón, áo hoodie, áo swag, giày thể thao, khăn turban.",
+      "id": 1,
+      "short_desc": "Là một trong những cụm từ khá phổ biến với các tín đồ thời trang"
+    },
+    {
+      "name": " Chic streetwear",
+      "image": "https://saigonsneaker.com/wp-content/uploads/2019/12/street-wear.jpg",
+      "short_desc": "Thuật ngữ chỉ những phong cách ăn mặc theo style đường phố, phóng khoáng",
+      "content": "Thuật ngữ chỉ những phong cách ăn mặc theo style đường phố, phóng khoáng và thoải mái nhưng mang đậm tính lịch sự, trưởng thành.\nMột bộ trang phục Chic Streetwear thường được kết hợp với những đôi boots hoặc những đôi giày sneaker casual. Và chọn những trang phục đặc trưng, chẳng hạn như áo flannel, áo tee màu sắc đơn giản, quần jean tối giản,…\n\n",
+      "id": 2
+    }
+  ]
+}
